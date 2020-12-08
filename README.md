@@ -26,7 +26,8 @@ LEDに使用したGPIOは、6番と25番である。
    $ echo 0 > /dev/myled0       //LED1消滅
    $ echo 1 > /dev/myled0       //LED1点灯
    $ echo 2 > /dev/myled0       //LED2消滅
-   $ echo 3 > /dev/myled0       //LED2点灯  ```
+   $ echo 3 > /dev/myled0       //LED2点灯  
+   ```
 
 ## 実行動画
 <https:youtube/Q6Fmlko26hw>
