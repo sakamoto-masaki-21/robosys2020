@@ -30,7 +30,7 @@ LEDに使用したGPIOは、6番と25番である。
    ```
 
 ## 実行動画
-<https:youtube/Q6Fmlko26hw>
+<https://youtu.be/Q6Fmlko26hw>
 
 ## 作成者
 Masaki Sakamoto and Ryuichi Ueda
