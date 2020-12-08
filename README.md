@@ -3,6 +3,7 @@ Raspberry Pi 4を用いた2つのLEDをコマンドで点滅させるデバイ�
 
 ## 実行環境
 本体：Raspberry Pi 4 Computer Model B
+
 OS: Ubuntu 20.04
 
 ## 使用したもの
@@ -35,6 +36,4 @@ LEDに使用したGPIOは、6番と25番である。
 ## 作成者
 Masaki Sakamoto and Ryuichi Ueda
 
-## licence
-GPL-3.0 License
 
